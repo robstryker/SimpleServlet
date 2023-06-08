@@ -1,0 +1,16 @@
+{
+	"mappings": [
+		{
+			"source-path": "target/SimpleServlet-1/",
+			"deploy-path": "/"
+		},
+		{
+			"source-path": "src/main/webapp/",
+			"deploy-path": "/"
+		},
+		{
+			"source-path": "target/classes/",
+			"deploy-path": "/WEB-INF/classes/"
+		}
+	]
+}
